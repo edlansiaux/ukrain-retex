@@ -1,7 +1,6 @@
-# ukrain-retex
-
 [![License](https://img.shields.io/github/license/edlansiaux/ukrain-retex)](https://github.com/edlansiaux/ukrain-retex/blob/master/LICENSE)
 
+# ukrain-retex
 RETurn of EXperience (RETEX) for a civilian humanitarian supply chain during the first part of Ukrainian war
 
 
