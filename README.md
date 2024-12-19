@@ -8,4 +8,4 @@ This repo contains scripts, data and figs used in order to build the RETEX. We h
 
 ## Reference
 
-Lansiaux E, et al. Humanitarian pipeline for high-intensity conflicts: The return of the Ukrainian experience. Médecine de Catastrophe - Urgences Collectives [Internet]. 2024;8(4):258-267. Disponibel sur: https://doi.org/10.1016/j.pxur.2024.10.001 
+Lansiaux E, et al. Humanitarian pipeline for high-intensity conflicts: The return of the Ukrainian experience. Médecine de Catastrophe - Urgences Collectives [Internet]. 2024;8(4):258-267. Available on: https://doi.org/10.1016/j.pxur.2024.10.001 
